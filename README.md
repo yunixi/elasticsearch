@@ -2,4 +2,4 @@
 
 ElasticSearch Syntax
 
-About Version : ElasticSearch-v.6.5.4
+Version : ElasticSearch-v.6.5.4
